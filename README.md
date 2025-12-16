@@ -8,12 +8,12 @@ Este proyecto es una réplica de la interfaz de usuario de Spotify, creado con e
 - Reproducción de audio web
 
 Tecnologias usadas: 
-    - **Astro** - Framework web moderno para sitios rápidos
-    - **React** - Para componentes interactivos
-    - **TypeScript** - Superset de JavaScript con tipado estático
-    - **Node.JS** - Utilizado para realizar las conexiones API
-    - **Tailwind CSS** - Framework de CSS utility-first
-    - **Spotify Web API** - Integración con servicios de Spotify
+- **Astro** - Framework web moderno para sitios rápidos
+- **React** - Para componentes interactivos
+- **TypeScript** - Superset de JavaScript con tipado estático
+- **Node.JS** - Utilizado para realizar las conexiones API
+- **Tailwind CSS** - Framework de CSS utility-first
+- **Spotify Web API** - Integración con servicios de Spotify
 
 Este proyecto fue desarrollado como ejercicio de práctica para:
 
